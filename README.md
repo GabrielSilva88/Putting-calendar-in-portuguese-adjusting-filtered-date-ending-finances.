@@ -9,5 +9,7 @@
 #### deleting-register
 #### customizing-drawer-profile-page
 #### filter-regsiter
-# filtering-register-1-2
-# colocando-calendario-em-portugues-brasil-ajustando-data-filtrada-finalizando-finan-as.
+#### filtering-register-1-2
+#### Setting-the-calendar-in-pt
+#### Adjusting-filtered-date
+## finalizing-finance.
